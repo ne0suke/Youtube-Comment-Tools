@@ -40,7 +40,7 @@ Googleへのリクエストには、コメント本文と翻訳先言語のほ�
 
 ## お問い合わせ
 
-プライバシーに関するお問い合わせ先：[Discord](https://discord.gg/PhEdEahwt)
+プライバシーに関するお問い合わせ先✉：kneo3151@gmail.com
 
 ## Chromeウェブストアのユーザーデータポリシー
 
